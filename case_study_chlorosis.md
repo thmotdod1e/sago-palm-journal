@@ -71,3 +71,23 @@ Overwatering appears to have been a contributing factor. The plant may be recove
 - Monitor for signs of improvement over next 2 weeks
 
 **Next Observation:** Scheduled for January 24, 2026.
+
+## Final Observation (Week 6 – Resolution)
+**Date:** January 24, 2026
+
+**Findings:**
+- New fronds that emerged after watering correction are showing healthy, deep green color
+- Yellowing on older new fronds has ceased; some slight greening observed but not fully recovered
+- Soil moisture management is now stable; plant receives water only when top 2 inches are dry
+- Overall plant vigor has improved; no signs of stress
+- No further chlorosis observed on newest growth
+
+**Conclusion:**
+The chlorosis was primarily caused by **overwatering**, leading to poor root function and nutrient uptake. The initial hypothesis of manganese deficiency was incorrect. Correcting the watering schedule and improving drainage resolved the issue. The slow-release fertilizer likely supported overall plant health but was not the primary solution.
+
+**Lessons Learned:**
+1. Always check soil moisture and drainage before assuming nutrient deficiencies.
+2. Sago palms are drought-tolerant and susceptible to root issues with excessive moisture.
+3. Systematic troubleshooting (hypothesis → test → reevaluate) is effective for plant problem-solving.
+
+**Status:** **Resolved** – The plant is now producing healthy green fronds and the chlorosis issue has been corrected.
