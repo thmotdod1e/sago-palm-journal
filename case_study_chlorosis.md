@@ -30,3 +30,24 @@ Potential manganese deficiency, common in cycads grown in alkaline soils or with
 - Watered lightly after application to help incorporation
 
 **Next Observation:** Scheduled for January 3, 2026.
+
+## Week 2 Observation (One week after treatment)
+**Date:** January 3, 2026
+
+**Findings:**
+- No significant change in chlorosis observed; new fronds remain yellow
+- Soil pH test result: pH 7.2 (slightly alkaline)
+- Soil moisture check: soil felt consistently damp, even though watering had been reduced
+- No signs of pest activity
+- Plant otherwise appears healthy, no wilting or leaf drop
+
+**Assessment:**
+Manganese deficiency less likely given lack of improvement and adequate soil pH for nutrient availability. Suspect overwatering may be contributing to poor root function and nutrient uptake.
+
+**Updated Plan:**
+1. Reduce watering frequency further; allow soil to dry out between waterings (top 1-2 inches dry)
+2. Improve drainage by adding perlite to surface and ensuring drainage holes are clear
+3. Hold off on further manganese applications
+4. Monitor for improvement over next week.
+
+**Next Observation:** Scheduled for January 10, 2026.
