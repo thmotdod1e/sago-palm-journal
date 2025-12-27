@@ -51,3 +51,23 @@ Manganese deficiency less likely given lack of improvement and adequate soil pH 
 4. Monitor for improvement over next week.
 
 **Next Observation:** Scheduled for January 10, 2026.
+
+## Week 3 Observation (After adjusting watering)
+**Date:** January 10, 2026
+
+**Findings:**
+- Soil moisture has decreased; top 2 inches now dry before watering
+- Drainage improved by adding perlite and clearing drainage holes
+- No visible improvement in chlorosis yet, but no worsening either
+- New growth emerging appears slightly greener at the base but still pale
+- Roots inspected during perlite addition: no signs of rot, but root mass seemed somewhat limited
+
+**Assessment:**
+Overwatering appears to have been a contributing factor. The plant may be recovering slowly. Need to continue proper watering schedule and allow time for new healthy growth.
+
+**Updated Action:**
+- Continue reduced watering schedule (water only when top 2 inches are dry)
+- Add a balanced, slow-release fertilizer (NPK 8-2-12 plus micronutrients) at half strength to support overall nutrition
+- Monitor for signs of improvement over next 2 weeks
+
+**Next Observation:** Scheduled for January 24, 2026.
